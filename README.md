@@ -1,6 +1,8 @@
-<div align= "center">
-  <h1 align= "left">Hola, soy Campos un gusto 🫂</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<p> Y este perfil esta en construcción 👷 </p>
-
+<h3 align="center">
+  Hola, mi nombre es Angel Campos Pezo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
