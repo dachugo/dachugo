@@ -1,15 +1,19 @@
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:00c9a7,50:00b4d8,100:00e0ff&height=250&section=header&text=Hi%20I'm%20Angel.Campos.Pezo🙋‍♂️&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" alt="header"/>
-
 </div>
 
 <h1 align="center">What's up 👋, Welcome to my profile</h1>
-<h3 align="center">I'm a Systems Engineer | 20 y.o. | Passionate about tech, open-source, and creative content. Always learning, always building.</h3>
+<h3 align="center">
+  I'm a Systems Engineer 👨‍💻 | 20 y.o. | Passionate about tech, open-source, and creative content.<br>
+  I build, I learn, I iterate — always leveling up, one bug at a time, and the occasional “why is this working?” moment.
+</h3>
 
+<br>
 
+<p align="center">Technologies I've worked with</p>
 
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" align="center"> 
   <kbd>
     <kbd>Back-end</kbd>
     <br>
