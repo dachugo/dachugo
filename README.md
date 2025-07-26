@@ -6,7 +6,6 @@
 <h1 align="center">What's up 👋, Welcome to my profile</h1>
 <h3 align="center">
   I'm a Systems Engineering student 👨‍💻 (currently in my 4th year out of 5) | 20 y.o.<br>
-  Passionate about tech, open-source, and creative content.<br>
   I build, I learn, I iterate — always leveling up, one bug at a time, and the occasional “why is this working?” moment.
 </h3>
 
