@@ -1,9 +1,10 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hi%20I'm%20Angel.Campos.Pezo&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
 
-<h2 align="center">
-  HOLA, MI NOMBRE ES ANGEL CAMPOS PEZO
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h1 align="center">What's up 👋, Welcome to my profile</h1>
+<h3 align="center">I'm a Systems Engineer | 20 y.o. | Passionate about tech, open-source, and creative content. Always learning, always building.</h3>
+
 
